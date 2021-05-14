@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.11)  12 MAY 2021 13:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.11)  14 MAY 2021 18:07
 entering extended mode
 **./elk-template.tex
 (elk-template.tex
@@ -1416,20 +1416,14 @@ tex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count372
 \l__pdf_internal_box=\box145
-) (elk-template.aux
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-
-LaTeX Warning: Label `fig2@cref' multiply defined.
-
-)
+) (elk-template.aux)
 \openout1 = `elk-template.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 67.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
 67.
- (C:\Users\moham\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omltxmi.fd
+
+(C:\Users\moham\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 67.
@@ -1642,19 +1636,19 @@ LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
 
 pdfTeX warning: pdflatex.exe (file ./media/image1.pdf): PDF inclusion: found PD
 F version <1.7>, but at most version <1.5> allowed
-<./media/image1.pdf, id=118, 635.37375pt x 465.99094pt>
+<./media/image1.pdf, id=110, 635.37375pt x 465.99094pt>
 File: ./media/image1.pdf Graphic file (type pdf)
 <use ./media/image1.pdf>
-Package pdftex.def Info: ./media/image1.pdf  used on input line 114.
+Package pdftex.def Info: ./media/image1.pdf  used on input line 112.
 (pdftex.def)             Requested size: 416.2748pt x 305.30806pt.
 [3 <./media/image1.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./media/image2.pdf): PDF inclusion: found PD
 F version <1.7>, but at most version <1.5> allowed
-<./media/image2.pdf, id=130, 844.0292pt x 530.68336pt>
+<./media/image2.pdf, id=129, 844.0292pt x 530.68336pt>
 File: ./media/image2.pdf Graphic file (type pdf)
 <use ./media/image2.pdf>
-Package pdftex.def Info: ./media/image2.pdf  used on input line 151.
+Package pdftex.def Info: ./media/image2.pdf  used on input line 145.
 (pdftex.def)             Requested size: 455.30121pt x 286.27324pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1663,10 +1657,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning: pdflatex.exe (file ./media/image3.pdf): PDF inclusion: found PD
 F version <1.7>, but at most version <1.5> allowed
-<./media/image3.pdf, id=138, 847.83418pt x 416.22165pt>
+<./media/image3.pdf, id=141, 847.83418pt x 416.22165pt>
 File: ./media/image3.pdf Graphic file (type pdf)
 <use ./media/image3.pdf>
-Package pdftex.def Info: ./media/image3.pdf  used on input line 172.
+Package pdftex.def Info: ./media/image3.pdf  used on input line 166.
 (pdftex.def)             Requested size: 416.2748pt x 204.3632pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1675,60 +1669,48 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning: pdflatex.exe (file ./media/image4.pdf): PDF inclusion: found PD
 F version <1.7>, but at most version <1.5> allowed
-<./media/image4.pdf, id=164, 695.59875pt x 428.35031pt>
+<./media/image4.pdf, id=173, 695.59875pt x 428.35031pt>
 File: ./media/image4.pdf Graphic file (type pdf)
 <use ./media/image4.pdf>
-Package pdftex.def Info: ./media/image4.pdf  used on input line 286.
+Package pdftex.def Info: ./media/image4.pdf  used on input line 278.
 (pdftex.def)             Requested size: 416.2748pt x 256.33894pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
-Underfull \vbox (badness 5862) has occurred while \output is active []
+[8 <./media/image4.pdf>]
 
- [8 <./media/image4.pdf>] [9] (elk-template.aux)
+Package lineno Warning: Linenumber reference failed, 
+(lineno)                rerun to get it right.
 
-LaTeX Warning: There were multiply-defined labels.
-
-
-Package rerunfilecheck Warning: File `elk-template.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `elk-template.out':
-(rerunfilecheck)             Before: 48490FFAEE09099B03E973B40524CD42;2085
-(rerunfilecheck)             After:  025776BB4ACDBFEAE667B32E1601F0E9;1852.
+[9] (elk-template.aux)
+Package rerunfilecheck Info: File `elk-template.out' has not changed.
+(rerunfilecheck)             Checksum: 6ECF42A8D8C92FF01F889EA7E8AA9F7A;1851.
  )
 (\end occurred when \ifx on line 2 was incomplete) 
 Here is how much of TeX's memory you used:
- 34273 strings out of 479334
- 626084 string characters out of 2857084
- 1005653 words of memory out of 3000000
- 50919 multiletter control sequences out of 15000+200000
+ 34268 strings out of 479334
+ 626038 string characters out of 2857084
+ 1005638 words of memory out of 3000000
+ 50917 multiletter control sequences out of 15000+200000
  468292 words of font info for 161 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,15n,88p,3307b,511s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{s
-ection.7} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.6} has been referenced but does not exist, 
-replaced by a fixed one
-
-{C:/Users/moham/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/U
-sers/moham/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtcxr.pfb><
-C:/Users/moham/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxb.pf
-b><C:/Users/moham/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxm
-i.pfb><C:/Users/moham/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/
-rtxr.pfb><C:/Users/moham/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfon
-ts/txex.pfb><C:/Users/moham/AppData/Local/Programs/MiKTeX/fonts/type1/public/tx
-fonts/txsy.pfb><C:/Users/moham/AppData/Local/Programs/MiKTeX/fonts/type1/urw/he
-lvetic/uhvr8a.pfb><C:/Users/moham/AppData/Local/Programs/MiKTeX/fonts/type1/urw
-/times/utmb8a.pfb><C:/Users/moham/AppData/Local/Programs/MiKTeX/fonts/type1/urw
-/times/utmr8a.pfb><C:/Users/moham/AppData/Local/Programs/MiKTeX/fonts/type1/urw
-/times/utmri8a.pfb>
-Output written on elk-template.pdf (9 pages, 687702 bytes).
+ 87i,15n,88p,3307b,517s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/moham/AppData/Local
+/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/moham/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/txfonts/rtcxr.pfb><C:/Users/moham/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/txfonts/rtxb.pfb><C:/Users/moham/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/moham/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/moham/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txex.pfb><C:/Users/moham/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Users/moha
+m/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/m
+oham/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/m
+oham/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/m
+oham/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on elk-template.pdf (9 pages, 688553 bytes).
 PDF statistics:
  250 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 47 named destinations out of 1000 (max. 500000)
+ 225 words of extra memory for PDF output out of 10000 (max. 10000000)
 
